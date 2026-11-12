@@ -147,3 +147,17 @@ python -u Filter_Targeted_Attack/enhance_transferability_my_llamaguard_attack.py
 
 Results are saved after each completed sample to `outputs/suffix_raw_40/results.pt`. 
 
+
+
+## Citation
+If you find this useful in your research, please consider citing:
+
+```
+@misc{yang2025effectiveblackboxmultifacetedattacks,
+      title={Multi-Faceted Attack: Exposing Cross-Model Vulnerabilities in Defense-Equipped Vision-Language Models}, 
+      author={Yijun Yang* and Lichao Wang* and Jianping Zhang and Chi Harold Liu and Lanqing Hong and Qiang Xu},
+      year={2026},
+      archivePrefix={AAAI},
+      primaryClass={cs.CV},
+}
+```
